@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(50,11): warning C4101: 'result': unreferenced local variable
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(51,24): warning C4101: 'player2_result': unreferenced local variable
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(51,9): warning C4101: 'player1_result': unreferenced local variable
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(697,16): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(705,16): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(754,19): warning C4101: 'one_pair_value1': unreferenced local variable
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(754,36): warning C4101: 'one_pair_value2': unreferenced local variable
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(822,9): warning C4101: 'non_repeating_value1': unreferenced local variable
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(821,21): warning C4101: 'player2': unreferenced local variable
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(822,34): warning C4101: 'non_repeating_value2': unreferenced local variable
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(821,9): warning C4101: 'player1': unreferenced local variable
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(862,12): warning C4101: 'j': unreferenced local variable
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(862,22): warning C4101: 'one_pair_value1': unreferenced local variable
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(862,39): warning C4101: 'one_pair_value2': unreferenced local variable
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(888,12): warning C4101: 'j': unreferenced local variable
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(888,22): warning C4101: 'one_pair_value1': unreferenced local variable
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(888,39): warning C4101: 'one_pair_value2': unreferenced local variable
+C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Source.cpp(933): warning C4715: 'is_flush_check': not all control paths return a value
+  Project1.vcxproj -> C:\Users\ARUVIESUG\Documents\suganya\interview_preparation\ICM_consulting\poker_game_2_player\Project1\Debug\Project1.exe
